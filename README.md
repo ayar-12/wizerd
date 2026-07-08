@@ -34,8 +34,8 @@ Every gesture is drawn as a glowing, gold-to-white trail with a soft blur bloom 
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gesture-launcher.git
-cd gesture-launcher
+git clone https://github.com/ayar-12/wizerd.git
+cd wizerd
 pip install -r requirements.txt
 python gesture_launcher.py
 ```
